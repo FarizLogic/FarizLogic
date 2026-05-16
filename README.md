@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ahmad Fariz Ali
 
-<!--
-**FarizLogic/FarizLogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lecturer at Universiti Teknologi Malaysia (UTM)
 
-Here are some ideas to get you started:
+Interested in:
+- Computer Architecture
+- Educational CPU Design
+- Digital Logic
+- Operating Systems
+- Educational Simulators
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+Bridge-8 CPU Simulator
+
+Developed for Computer Architecture teaching and pedagogy.
+
+## Contact
+- Email: ahmadfariz@utm.my
