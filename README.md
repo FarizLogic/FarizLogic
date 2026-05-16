@@ -2,17 +2,28 @@
 
 Lecturer at Universiti Teknologi Malaysia (UTM)
 
-Interested in:
+## Research & Teaching Interests
+
 - Computer Architecture
 - Educational CPU Design
 - Digital Logic
 - Operating Systems
-- Educational Simulators
+- Instruction Set Architecture (ISA)
 
 ## Current Project
-Bridge-8 CPU Simulator
 
-Developed for Computer Architecture teaching and pedagogy.
+### Bridge-8 CPU Simulator
+
+An educational 8-bit CPU simulator designed to simplify the understanding of:
+- instruction cycles
+- datapath operations
+- registers and buses
+- assembly language concepts
+
+Designed for Computer Architecture teaching and learning.
 
 ## Contact
-- Email: ahmadfariz@utm.my
+
+- email: ahmadfariz@utm.my
+- Facebook: https://www.facebook.com/ahmadfariz.ali
+- GitHub: https://github.com/FarizLogic
