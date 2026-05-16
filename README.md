@@ -22,6 +22,12 @@ An educational 8-bit CPU simulator designed to simplify the understanding of:
 
 Designed for Computer Architecture teaching and learning.
 
+## Featured Repository
+
+- Bridge-8-CPU
+
+
+
 ## Contact
 
 - email: ahmadfariz@utm.my
