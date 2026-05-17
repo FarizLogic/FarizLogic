@@ -24,7 +24,7 @@ Designed for Computer Architecture teaching and learning.
 
 ## Featured Repository
 
-- [Bridge-8-CPU](https://github.com/FarizLogic/Bridge-8-CPU)
+- [Bridge-8 CPU](https://github.com/FarizLogic/Bridge-8-CPU)
   Educational 8-bit CPU simulator for Computer Architecture learning.
 
 ## Contact
